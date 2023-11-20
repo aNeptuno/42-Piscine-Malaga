@@ -1,0 +1,6 @@
+bsq
+.vscode
+.DS_Store
+script.pl
+maps
+maps/*

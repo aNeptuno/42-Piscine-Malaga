@@ -1,0 +1,8 @@
+*/main.c
+*.out
+.DS_Store
+*.h.gch
+ex04/*.h
+ex05/*.h
+.vscode
+test/*
